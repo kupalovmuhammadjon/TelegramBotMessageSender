@@ -1,5 +1,5 @@
 module telegrambotmessagesender
 
-go 1.23.1
+go 1.23.2
 
-require github.com/kupalovmuhammadjon/Queue v1.0.1
+require github.com/kupalovmuhammadjon/Queue v1.0.4
